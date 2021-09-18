@@ -1,214 +1,212 @@
 .imac-1screen {
-  background-color: #efc897;
-  height: 1024px;
-  overflow: hidden;
-  position: relative;
-  width: 1440px;
+    background-color: #EFC897;
+    height: 1024px;
+    overflow: hidden;
+    position: relative;
+    width: 1440px;
 }
 
 .imac-1screen .overlap-group1 {
-  height: 1328px;
-  left: 32px;
-  position: absolute;
-  top: -723px;
-  width: 1440px;
+    height: 1328px;
+    left: 32px;
+    position: absolute;
+    top: -723px;
+    width: 1440px;
 }
 
 .imac-1screen .mask-group {
-  height: 1236px;
-  left: 197px;
-  position: absolute;
-  top: 2px;
-  width: 1238px;
-  border-radius: 50%;
+    height: 1236px;
+    left: 197px;
+    position: absolute;
+    top: 2px;
+    width: 1238px;
 }
 
 .imac-1screen .ellipse-2 {
-  height: 1243px;
-  left: 197px;
-  mix-blend-mode: overlay;
-  position: absolute;
-  top: 0;
-  width: 1243px;
-  border-radius: 50%;
+    height: 1243px;
+    left: 197px;
+    mix-blend-mode: overlay;
+    position: absolute;
+    top: 0;
+    width: 1243px;
 }
 
 .imac-1screen .menu-bar {
-  display: flex;
-  height: 29px;
-  left: 0;
-  position: absolute;
-  top: 795px;
-  width: 1331px;
+    display: flex;
+    height: 29px;
+    left: 0;
+    position: absolute;
+    top: 795px;
+    width: 1331px;
 }
 
 .imac-1screen .frame-1 {
-  display: flex;
-  font-style: italic;
-  height: 10.502182960510254px;
-  margin-top: 9.5px;
-  width: 151.2314453125px;
+    display: flex;
+    font-style: italic;
+    height: 10.502182960510254px;
+    margin-top: 9.5px;
+    width: 151.2314453125px;
 }
 
 .imac-1screen .decode-apocalypse {
-  color: var(--mine-shaft);
-  font-family: var(--font-family-roboto);
-  font-size: var(--font-size-xs);
-  font-weight: 700;
-  height: 10px;
-  letter-spacing: 0;
-  width: 146px;
+    color: var(--mine-shaft);
+    font-family: var(--font-family-roboto);
+    font-size: var(--font-size-xs);
+    font-weight: 700;
+    height: 10px;
+    letter-spacing: 0;
+    width: 146px;
 }
 
 .imac-1screen .group-1 {
-  height: 30px;
-  margin-left: 1149.7px;
-  margin-top: -0.3px;
-  width: 30px;
+    height: 30px;
+    margin-left: 1149.7px;
+    margin-top: -0.3px;
+    width: 30px;
 }
 
 .imac-1screen .overlap-group {
-  height: 183px;
-  left: 821px;
-  position: absolute;
-  top: 1146px;
-  width: 183px;
+    height: 183px;
+    left: 821px;
+    position: absolute;
+    top: 1146px;
+    width: 183px;
 }
 
 .imac-1screen .project-management-1 {
-  height: 106px;
-  left: 53px;
-  object-fit: cover;
-  position: absolute;
-  top: 39px;
-  width: 106px;
+    height: 106px;
+    left: 53px;
+    object-fit: cover;
+    position: absolute;
+    top: 39px;
+    width: 106px;
 }
 
 .imac-1screen .radar {
-  height: 183px;
-  left: 0;
-  object-fit: cover;
-  position: absolute;
-  top: 0;
-  width: 183px;
+    height: 183px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 183px;
 }
 
 .imac-1screen .nav {
-  display: flex;
-  height: 48px;
-  left: 567px;
-  position: absolute;
-  top: 1273px;
-  width: 720px;
+    display: flex;
+    height: 48px;
+    left: 567px;
+    position: absolute;
+    top: 1273px;
+    width: 720px;
 }
 
 .imac-1screen .nav-icon {
-  height: 61px;
-  margin-left: -4.1px;
-  margin-top: -4.3px;
-  width: 60.5px;
+    height: 61px;
+    margin-left: -4.1px;
+    margin-top: -4.3px;
+    width: 60.5px;
 }
 
 .imac-1screen .nav-icon-1 {
-  height: 61px;
-  margin-left: 611.4px;
-  margin-top: -4.3px;
-  width: 61px;
+    height: 61px;
+    margin-left: 611.4px;
+    margin-top: -4.3px;
+    width: 61px;
 }
 
 .imac-1screen .group-14 {
-  display: flex;
-  flex-direction: column;
-  height: 353px;
-  left: 32px;
-  position: absolute;
-  top: 589px;
-  width: 443px;
+    display: flex;
+    flex-direction: column;
+    height: 353px;
+    left: 32px;
+    position: absolute;
+    top: 589px;
+    width: 443px;
 }
 
 .imac-1screen .group-6 {
-  display: flex;
-  margin-left: 23.5px;
-  width: 387.4301452636719px;
+    display: flex;
+    margin-left: 23.5px;
+    width: 387.4301452636719px;
 }
 
 .imac-1screen .text-1 {
-  height: 215.2947540283203px;
-  letter-spacing: 0;
-  text-align: justify;
-  width: 387.4301452636719px;
+    height: 215.2947540283203px;
+    letter-spacing: 0;
+    text-align: justify;
+    width: 387.4301452636719px;
 }
 
 .imac-1screen .text-2 {
-  color: var(--mine-shaft);
-  font-family: var(--font-family-poppins);
-  font-size: var(--font-size-xxs);
-  font-weight: 600;
-  height: 57px;
-  letter-spacing: 0;
-  margin-left: 24px;
-  margin-top: 9.6px;
-  text-align: justify;
-  width: 419px;
+    color: var(--mine-shaft);
+    font-family: var(--font-family-poppins);
+    font-size: var(--font-size-xxs);
+    font-weight: 600;
+    height: 57px;
+    letter-spacing: 0;
+    margin-left: 24px;
+    margin-top: 9.6px;
+    text-align: justify;
+    width: 419px;
 }
 
 .imac-1screen .register {
-  background-color: var(--indochine);
-  border-radius: 45px;
-  box-shadow: 2px 2px 4px #00000040;
-  display: flex;
-  margin-top: 24px;
+    background-color: var(--indochine);
+    border-radius: 85px;
+    box-shadow: 2px 2px 4px #00000040;
+    display: flex;
+    margin-top: 24px;
 }
 
 .imac-1screen .sign-inregister {
-  color: var(--white);
-  font-family: var(--font-family-poppins);
-  font-size: var(--font-size-s);
-  font-weight: 600;
-  height: 45px;
-  letter-spacing: 0;
-  margin-left: 30px;
-  text-align: center;
-  width: 264px;
+    color: var(--white);
+    font-family: var(--font-family-poppins);
+    font-size: var(--font-size-s);
+    font-weight: 600;
+    height: 45px;
+    letter-spacing: 1;
+    margin-left: 30px;
+    text-align: center;
+    width: 264px;
 }
 
 @import url("https://fonts.googleapis.com/css?family=Roboto:700|Poppins:400,500,600");
 .screen a {
-  display: contents;
-  text-decoration: none;
+    display: contents;
+    text-decoration: none;
 }
 
 .container-center-horizontal {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  pointer-events: none;
-  width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    pointer-events: none;
+    width: 100%;
 }
 
-.container-center-horizontal > * {
-  flex-shrink: 0;
-  pointer-events: auto;
+.container-center-horizontal>* {
+    flex-shrink: 0;
+    pointer-events: auto;
 }
 
 .valign-text-middle {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 .listeners-active,
 .listeners-active * {
-  pointer-events: auto;
+    pointer-events: auto;
 }
 
 .hidden,
 .hidden * {
-  pointer-events: none;
-  visibility: hidden;
+    pointer-events: none;
+    visibility: hidden;
 }
 
 .listeners-active-click,
 .listeners-active-click * {
-  cursor: pointer;
+    cursor: pointer;
 }
