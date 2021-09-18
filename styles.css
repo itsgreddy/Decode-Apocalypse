@@ -20,6 +20,7 @@
   position: absolute;
   top: 2px;
   width: 1238px;
+  border-radius: 50%;
 }
 
 .imac-1screen .ellipse-2 {
@@ -29,6 +30,7 @@
   position: absolute;
   top: 0;
   width: 1243px;
+  border-radius: 50%;
 }
 
 .imac-1screen .menu-bar {
