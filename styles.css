@@ -93,29 +93,6 @@
   width: 183px;
 }
 
-.imac-1screen .nav {
-  display: flex;
-  height: 48px;
-  left: 567px;
-  position: absolute;
-  top: 1273px;
-  width: 720px;
-}
-
-.imac-1screen .nav-icon {
-  height: 61px;
-  margin-left: -4.1px;
-  margin-top: -4.3px;
-  width: 60.5px;
-}
-
-.imac-1screen .nav-icon-1 {
-  height: 61px;
-  margin-left: 611.4px;
-  margin-top: -4.3px;
-  width: 61px;
-}
-
 .imac-1screen .group-14 {
   display: flex;
   flex-direction: column;
