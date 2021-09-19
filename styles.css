@@ -669,3 +669,24 @@
 .listeners-active-click * {
   cursor: pointer;
 }
+
+footer {
+  background-color: #e3ffee;
+  width: 1500px;
+}
+
+.follow {
+  color: black;
+  font-family: var(--font-family-roboto);
+  font-size: 70px;
+  padding-top: 30px;
+  width: 100%;
+  text-align: center;
+}
+
+.media {
+  width: 100%;
+  font-size: 70px;
+  text-align: center;
+  padding-bottom: 3%;
+}
