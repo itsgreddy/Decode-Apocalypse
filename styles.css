@@ -1,15 +1,16 @@
 /* <!---------------------------------------- FIRST PAGE --------------------------------------------------------------> */
 .imac-1screen {
   background-color: #f8d0a0;
-  height: 1024px;
+  height: 860px;
   overflow: hidden;
   position: relative;
-  width: 100%;
+  width: 1520px;
+  top: -8px;
 }
 
 .imac-1screen .overlap-group1 {
   height: 1328px;
-  left: 32px;
+  left: 19px;
   position: absolute;
   top: -723px;
   width: 1440px;
@@ -17,19 +18,9 @@
 
 .imac-1screen .mask-group {
   height: 1200px;
-  left: 275px;
+  left: 325px;
   position: absolute;
-  top: 2px;
-  width: 1243px;
-  border-radius: 50%;
-}
-
-.imac-1screen .ellipse-2 {
-  height: 1243px;
-  left: 197px;
-  mix-blend-mode: overlay;
-  position: absolute;
-  top: 0;
+  top: 125px;
   width: 1243px;
   border-radius: 50%;
 }
@@ -37,7 +28,7 @@
 .imac-1screen .menu-bar {
   display: flex;
   height: 25px;
-  left: 0;
+  left: 20px;
   position: absolute;
   top: 750px;
   width: 1500px;
@@ -46,19 +37,25 @@
 .imac-1screen .frame-1 {
   display: flex;
   font-style: italic;
-  height: 10.502182960510254px;
+  height: 25px;
   margin-top: 5px;
-  width: 151.2314453125px;
+  width: 125px;
+}
+
+.imac-1screen .logo {
+  display: flex;
+  height: 100px;
+  width: 155px;
 }
 
 .imac-1screen .decode-apocalypse {
   color: var(--mine-shaft);
   font-family: var(--font-family-roboto);
   font-size: var(--font-size-xs);
-  font-weight: 700;
-  height: 10px;
+  font-weight: 1000;
+  height: 200px;
   letter-spacing: 0;
-  width: 146px;
+  width: 10%;
 }
 
 .imac-1screen .group-1 {
@@ -70,7 +67,7 @@
 
 .imac-1screen .overlap-group {
   height: 183px;
-  left: 821px;
+  left: 875px;
   position: absolute;
   top: 1146px;
   width: 183px;
@@ -90,17 +87,17 @@
   left: 0;
   object-fit: cover;
   position: absolute;
-  top: 0;
+  top: 100px;
   width: 183px;
 }
 
 .imac-1screen .group-14 {
   display: flex;
   flex-direction: column;
-  height: 353px;
+  height: 100px;
   left: 32px;
   position: absolute;
-  top: 589px;
+  top: 450px;
   width: 443px;
 }
 
@@ -135,7 +132,7 @@
   border-radius: 100px;
   box-shadow: 2px 2px 4px #00000040;
   display: flex;
-  margin-top: 24px;
+  margin-top: 15px;
 }
 
 .imac-1screen .sign-inregister {
@@ -154,16 +151,17 @@
 /* <!---------------------------------------- SECOND PAGE --------------------------------------------------------------> */
 
 .imac-2screen {
-  background-color: #cdf6fe;
-  height: 1024px;
+  background-color: #cdf7ff;
+  height: 950px;
   overflow: hidden;
   position: relative;
-  width: 100%;
+  width: 1520px;
+  top: -8px;
 }
 
 .imac-2screen .overlap-group1 {
   height: 1328px;
-  left: 32px;
+  left: 19px;
   position: absolute;
   top: -723px;
   width: 1440px;
@@ -171,19 +169,9 @@
 
 .imac-2screen .mask-group {
   height: 1200px;
-  left: 275px;
+  left: 325px;
   position: absolute;
-  top: 50px;
-  width: 1243px;
-  border-radius: 50%;
-}
-
-.imac-2screen .ellipse-2 {
-  height: 1243px;
-  left: 197px;
-  mix-blend-mode: overlay;
-  position: absolute;
-  top: 0;
+  top: 125px;
   width: 1243px;
   border-radius: 50%;
 }
@@ -191,7 +179,7 @@
 .imac-2screen .menu-bar {
   display: flex;
   height: 25px;
-  left: 0;
+  left: 20px;
   position: absolute;
   top: 750px;
   width: 1500px;
@@ -200,19 +188,25 @@
 .imac-2screen .frame-1 {
   display: flex;
   font-style: italic;
-  height: 10.502182960510254px;
+  height: 25px;
   margin-top: 5px;
-  width: 151.2314453125px;
+  width: 125px;
+}
+
+.imac-2screen .logo {
+  display: flex;
+  height: 100px;
+  width: 155px;
 }
 
 .imac-2screen .decode-apocalypse {
   color: var(--mine-shaft);
   font-family: var(--font-family-roboto);
   font-size: var(--font-size-xs);
-  font-weight: 700;
-  height: 10px;
+  font-weight: 1000;
+  height: 200px;
   letter-spacing: 0;
-  width: 146px;
+  width: 10%;
 }
 
 .imac-2screen .group-1 {
@@ -224,7 +218,7 @@
 
 .imac-2screen .overlap-group {
   height: 183px;
-  left: 821px;
+  left: 875px;
   position: absolute;
   top: 1146px;
   width: 183px;
@@ -244,17 +238,17 @@
   left: 0;
   object-fit: cover;
   position: absolute;
-  top: 0;
+  top: 100px;
   width: 183px;
 }
 
 .imac-2screen .group-14 {
   display: flex;
   flex-direction: column;
-  height: 353px;
+  height: 100px;
   left: 32px;
   position: absolute;
-  top: 589px;
+  top: 450px;
   width: 443px;
 }
 
@@ -289,10 +283,31 @@
   border-radius: 100px;
   box-shadow: 2px 2px 4px #00000040;
   display: flex;
-  margin-top: 24px;
+  margin-top: 15px;
 }
 
 .imac-2screen .sign-inregister {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-s);
+  font-weight: 600;
+  height: 45px;
+  letter-spacing: 1;
+  margin-left: 10px;
+  text-align: center;
+  width: 280px;
+  margin-top: 6%;
+}
+
+.imac-2screen .another {
+  background-color: var(--indochine);
+  border-radius: 100px;
+  box-shadow: 2px 2px 4px #00000040;
+  display: flex;
+  margin-top: 4%;
+}
+
+.imac-2screen .another-btn {
   color: var(--white);
   font-family: var(--font-family-poppins);
   font-size: var(--font-size-s);
@@ -309,35 +324,26 @@
 
 .imac-3screen {
   background-color: #caffd3;
-  height: 1024px;
+  height: 860px;
   overflow: hidden;
   position: relative;
-  width: 100%;
+  width: 1520px;
+  top: -8px;
 }
 
 .imac-3screen .overlap-group1 {
   height: 1328px;
-  left: 32px;
+  left: 19px;
   position: absolute;
   top: -723px;
   width: 1440px;
 }
 
 .imac-3screen .mask-group {
-  height: 1236px;
-  left: 275px;
+  height: 1200px;
+  left: 325px;
   position: absolute;
-  top: 2px;
-  width: 1243px;
-  border-radius: 50%;
-}
-
-.imac-3screen .ellipse-2 {
-  height: 1243px;
-  left: 197px;
-  mix-blend-mode: overlay;
-  position: absolute;
-  top: 0;
+  top: 125px;
   width: 1243px;
   border-radius: 50%;
 }
@@ -345,7 +351,7 @@
 .imac-3screen .menu-bar {
   display: flex;
   height: 25px;
-  left: 0;
+  left: 20px;
   position: absolute;
   top: 750px;
   width: 1500px;
@@ -354,19 +360,25 @@
 .imac-3screen .frame-1 {
   display: flex;
   font-style: italic;
-  height: 10.502182960510254px;
+  height: 25px;
   margin-top: 5px;
-  width: 151.2314453125px;
+  width: 125px;
+}
+
+.imac-3screen .logo {
+  display: flex;
+  height: 100px;
+  width: 155px;
 }
 
 .imac-3screen .decode-apocalypse {
   color: var(--mine-shaft);
   font-family: var(--font-family-roboto);
   font-size: var(--font-size-xs);
-  font-weight: 700;
-  height: 10px;
+  font-weight: 1000;
+  height: 200px;
   letter-spacing: 0;
-  width: 146px;
+  width: 10%;
 }
 
 .imac-3screen .group-1 {
@@ -378,7 +390,7 @@
 
 .imac-3screen .overlap-group {
   height: 183px;
-  left: 821px;
+  left: 875px;
   position: absolute;
   top: 1146px;
   width: 183px;
@@ -398,17 +410,17 @@
   left: 0;
   object-fit: cover;
   position: absolute;
-  top: 0;
+  top: 100px;
   width: 183px;
 }
 
 .imac-3screen .group-14 {
   display: flex;
   flex-direction: column;
-  height: 353px;
+  height: 100px;
   left: 32px;
   position: absolute;
-  top: 589px;
+  top: 450px;
   width: 443px;
 }
 
@@ -443,7 +455,7 @@
   border-radius: 100px;
   box-shadow: 2px 2px 4px #00000040;
   display: flex;
-  margin-top: 24px;
+  margin-top: 15px;
 }
 
 .imac-3screen .sign-inregister {
@@ -462,36 +474,27 @@
 /* <!---------------------------------------- FORTH PAGE --------------------------------------------------------------> */
 
 .imac-4screen {
-  background-color: #f3ddd6;
-  height: 1024px;
+  background-color: #ffe5df;
+  height: 860px;
   overflow: hidden;
   position: relative;
-  width: 100%;
+  width: 1520px;
+  top: -8px;
 }
 
 .imac-4screen .overlap-group1 {
   height: 1328px;
-  left: 32px;
+  left: 19px;
   position: absolute;
   top: -723px;
   width: 1440px;
 }
 
 .imac-4screen .mask-group {
-  height: 1236px;
-  left: 275px;
+  height: 1200px;
+  left: 325px;
   position: absolute;
-  top: 2px;
-  width: 1243px;
-  border-radius: 50%;
-}
-
-.imac-4screen .ellipse-2 {
-  height: 1243px;
-  left: 197px;
-  mix-blend-mode: overlay;
-  position: absolute;
-  top: 0;
+  top: 125px;
   width: 1243px;
   border-radius: 50%;
 }
@@ -499,7 +502,7 @@
 .imac-4screen .menu-bar {
   display: flex;
   height: 25px;
-  left: 0;
+  left: 20px;
   position: absolute;
   top: 750px;
   width: 1500px;
@@ -508,19 +511,25 @@
 .imac-4screen .frame-1 {
   display: flex;
   font-style: italic;
-  height: 10.502182960510254px;
+  height: 25px;
   margin-top: 5px;
-  width: 151.2314453125px;
+  width: 125px;
+}
+
+.imac-4screen .logo {
+  display: flex;
+  height: 100px;
+  width: 155px;
 }
 
 .imac-4screen .decode-apocalypse {
   color: var(--mine-shaft);
   font-family: var(--font-family-roboto);
   font-size: var(--font-size-xs);
-  font-weight: 700;
-  height: 10px;
+  font-weight: 1000;
+  height: 200px;
   letter-spacing: 0;
-  width: 146px;
+  width: 10%;
 }
 
 .imac-4screen .group-1 {
@@ -532,7 +541,7 @@
 
 .imac-4screen .overlap-group {
   height: 183px;
-  left: 821px;
+  left: 875px;
   position: absolute;
   top: 1146px;
   width: 183px;
@@ -552,17 +561,17 @@
   left: 0;
   object-fit: cover;
   position: absolute;
-  top: 0;
+  top: 100px;
   width: 183px;
 }
 
 .imac-4screen .group-14 {
   display: flex;
   flex-direction: column;
-  height: 353px;
+  height: 100px;
   left: 32px;
   position: absolute;
-  top: 589px;
+  top: 450px;
   width: 443px;
 }
 
@@ -597,7 +606,7 @@
   border-radius: 100px;
   box-shadow: 2px 2px 4px #00000040;
   display: flex;
-  margin-top: 24px;
+  margin-top: 15px;
 }
 
 .imac-4screen .sign-inregister {
@@ -612,6 +621,8 @@
   width: 280px;
   margin-top: 6%;
 }
+
+/* ------------------------------------------ COMMMON ----------------------------------------- */
 .button {
   font-size: 180%;
   text-align: center;
